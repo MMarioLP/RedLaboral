@@ -1,0 +1,18 @@
+type Empresa @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  nombreEmpresa: String
+  rfc: String
+  ubicacion: String
+  aqueSeDedica: String
+  tipoEmpresa: String
+}
+
+type BDT @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  nombre: String
+  apellidos: String
+  fechaNac: String
+  ubicacion: String
+  curp: String
+  correo: String
+}

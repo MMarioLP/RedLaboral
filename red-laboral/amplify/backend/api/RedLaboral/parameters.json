@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "RedLaboral",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}

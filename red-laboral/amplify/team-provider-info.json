@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-redlaboral-dev-55917-authRole",
+      "UnauthRoleArn": "arn:aws:iam::572600291931:role/amplify-redlaboral-dev-55917-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::572600291931:role/amplify-redlaboral-dev-55917-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-redlaboral-dev-55917-deployment",
+      "UnauthRoleName": "amplify-redlaboral-dev-55917-unauthRole",
+      "StackName": "amplify-redlaboral-dev-55917",
+      "StackId": "arn:aws:cloudformation:us-east-1:572600291931:stack/amplify-redlaboral-dev-55917/fe581970-5cfa-11ee-85c9-0a54028a9cfd",
+      "AmplifyAppId": "d22hl0uto0bsjy"
+    },
+    "categories": {
+      "auth": {
+        "RedLaboral": {}
+      }
+    }
+  }
+}
